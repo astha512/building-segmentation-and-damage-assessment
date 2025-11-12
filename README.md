@@ -78,14 +78,17 @@ To improve model generalization and address class imbalance, a **custom augmenta
 ### 🖼️ Sample Predictions
 
 
-| Pre-Disaster | Post-Disaster | Segmentation Mask | Damage Level |
-|---------------|---------------|-------------------|---------------|
 <p align="center">
-  <img src="socal-fire_.png" alt="SoCal Fire Prediction" width="30%"/>
-  <img src="santa-rosa-wildfire_.png" alt="Santa Rosa Wildfire Prediction" width="30%"/>
-  <img src="hurricane-florence_.png" alt="Hurricane Florence Prediction" width="30%"/>
+  <img src="socal-fire_.png" alt="SoCal Fire Prediction" width="60%"/>
 </p>
----
+
+<p align="center">
+  <img src="santa-rosa-wildfire_.png" alt="Santa Rosa Wildfire Prediction" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="hurricane-florence_.png" alt="Hurricane Florence Prediction" width="60%"/>
+</p>
 
 ## 🔮 Future Work
 
